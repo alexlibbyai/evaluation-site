@@ -1,0 +1,12 @@
+{
+    "model": "SNN",
+    "generated": "2026-08-10T20:23:52.621645",
+    "files": {
+        "ImageSNN_20260810_202348.xlsx": {
+            "sha256": "256a195c2e86c55a452df8ee71fd8598bd639537d198af4daa6b56762bef55f1"
+        },
+        "ImageSNN_20260810_202349.pdf": {
+            "sha256": "a335c3610431f85842fedb733ac851acb66f9415d9cdfded82f9f5b201425935"
+        }
+    }
+}
