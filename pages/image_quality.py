@@ -139,13 +139,13 @@ with col2:
 with col3:
 
     render_metric_card(
-        "Visual Fidelity",
+        "Overall Visual Fidelity",
         fidelity,
         colour="#2ecc71",
         badge_colour="#2ecc71",
         border_colour="#f39c12",
         badge=True,
-        help_text=METRIC_HELP["Visual Fidelity"]
+        help_text=METRIC_HELP["Overall Visual Fidelity"]
     )
 
 
