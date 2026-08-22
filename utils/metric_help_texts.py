@@ -41,7 +41,7 @@ METRIC_HELP = {
     "Average SSIM":
         "Measures how closely stego images retain the visual structure of their original cover images. Higher values indicate better preservation.",
 
-    "Visual Fidelity":
+    "Overall Visual Fidelity":
         "Represents the overall visual quality of stego images compared with their originals. Higher values indicate less perceptible change following embedding.",
     
     "PSNR":
