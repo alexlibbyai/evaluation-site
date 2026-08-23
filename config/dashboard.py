@@ -3,10 +3,21 @@
 
 from pathlib import Path
 
-COVER_FOLDER = Path(
-    r"c:\evaluation-site\imagedataset\cover"
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+DATASET_FOLDER = (
+    PROJECT_ROOT
+    / "imagedataset"
 )
 
-STEGO_FOLDER = Path(
-    r"c:\evaluation-site\imagedataset\stego_plain_large"
+COVER_FOLDER = (
+    DATASET_FOLDER
+    / "cover"
+)
+
+STEGO_FOLDER = (
+    DATASET_FOLDER
+    / "stego_plain_large"
 )
