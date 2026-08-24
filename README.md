@@ -1,10 +1,10 @@
 # 📊 Evaluation Dashboard
 
-https://img.shields.io/badge/Python-3.13.7-white
-![Static Badge](https://img.shields.io/badgeype-blue
-![Static Badge](https://img.shields.io/badgecs-darkgreen
-![Static Badge](https:/badge/XAI-Enabled-orange
-![Static Badge](https://img.shields.io/badgeamework-purple
+![Static Badge](https://img.shields.io/badge/Python-3.13.7-white)
+![Static Badge](https://img.shields.io/badgeype-blue)
+![Static Badge](https://img.shields.io/badgecs-darkgreen)
+![Static Badge](https:/badge/XAI-Enabled-orange)
+![Static Badge](https://img.shields.io/badgeamework-purple)
 
 > Interactive evaluation and decision-support dashboard for steganalysis research, model assessment and forensic experimentation.
 
