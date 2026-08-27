@@ -1,0 +1,12 @@
+{
+    "model": "CNN",
+    "generated": "2026-08-27T09:52:04.985399",
+    "files": {
+        "ImageCNN_20260827_095202.xlsx": {
+            "sha256": "fdf87c224c60f1d749d0e761a86cb4b3f7d130d26df577b2c5a2eb183fd63649"
+        },
+        "ImageCNN_20260827_095203.pdf": {
+            "sha256": "d59febdcaee459b00ad34e34c35bfd9595d7bac59f90616527c1da598edae820"
+        }
+    }
+}
